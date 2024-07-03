@@ -19,7 +19,7 @@ class landing{
                 }
                 this.saveData();
                 alert("Registration Succesfull")
-                window.location="login.html"
+                window.location="index.html"
             }
         }
         else{
